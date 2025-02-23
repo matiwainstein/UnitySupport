@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2219895004
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: offer
+      Dependencies: {}
+    Info_1:
+      Name: infopopup1
+      Dependencies: {}
+    Info_2:
+      Name: infopopup2
+      Dependencies: {}
+    Info_3:
+      Name: rateus
+      Dependencies: {}
+    Info_4:
+      Name: tournament1
+      Dependencies: {}
+    Info_5:
+      Name: tournament2
+      Dependencies: {}
+    Info_6:
+      Name: tooltipold1
+      Dependencies: {}
+    Info_7:
+      Name: tooltipold2
+      Dependencies: {}
+    Info_8:
+      Name: tooltipnew1
+      Dependencies: {}
+    Info_9:
+      Name: tooltipnew2
+      Dependencies: {}
