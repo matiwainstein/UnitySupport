@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: control_tooltipFlow tournament tooltip
+  m_Controller: {fileID: 9100000, guid: fbb1db2262cf14e0ea10d87c606c5288, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2439ab654d3ae4b01b2920fef0cef208, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: de9a5cf963ff34e439c3864d43cc8f66, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0d79ce93488f449bfb014c093b555f01, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c08ae79c7ec984431aca4345f16b004a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c40d4b2adf7e84c70b3fbd10218fecab, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c40d4b2adf7e84c70b3fbd10218fecab, type: 2}

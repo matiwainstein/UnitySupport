@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "463387034446",
+    "firebase_url": "https://papaya-ee076.firebaseio.com",
+    "project_id": "papaya-ee076",
+    "storage_bucket": "papaya-ee076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463387034446:android:9905602e8d3cb3265a941f",
+        "android_client_info": {
+          "package_name": "com.papaya.bubblecash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463387034446-m3dcnao8hbspaf1pos4s5s4onk764kkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uCqENHGifegutxZf9v3aEkhUMBqzlL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463387034446-m3dcnao8hbspaf1pos4s5s4onk764kkm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463387034446-9okkfa363i7ek2ah8ksplfs45gbl4i2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.papaya.lootybird"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463387034446:android:347c87048e3abcc75a941f",
+        "android_client_info": {
+          "package_name": "com.papaya.solitairecash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463387034446-m3dcnao8hbspaf1pos4s5s4onk764kkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uCqENHGifegutxZf9v3aEkhUMBqzlL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463387034446-m3dcnao8hbspaf1pos4s5s4onk764kkm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463387034446-9okkfa363i7ek2ah8ksplfs45gbl4i2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.papaya.lootybird"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

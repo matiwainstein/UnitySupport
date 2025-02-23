@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: control_btn_confirmation_orange
+  m_Controller: {fileID: 9100000, guid: 8fe1e98da1dbb47fca3185f43112346f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 8519812728110947232, guid: 8fe1e98da1dbb47fca3185f43112346f,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4693db3db57404379933f4cc3c69082b, type: 2}

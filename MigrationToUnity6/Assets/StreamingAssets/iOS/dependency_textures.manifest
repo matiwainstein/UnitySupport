@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 486626152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2beeab7c8845c171999c3e793ccab208
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2beeab7c8845c171999c3e793ccab208
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_red_small.png
+- Assets/_PapayaKit/Papaya/A2BService/Art/Textures/Cash_SQ.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_genericShadow.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_orangeLarge.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/BTN_mask.png
+- Assets/ColorTheme/Sprites/Root/Xbtn.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_lightBlueSmall.png
+- Assets/ColorTheme/Sprites/Animations/tex_particle_spritesheetGems.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_graySmall.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_purple.png
+- Assets/ColorTheme/Sprites/Animations/tex_Animations_particle_GemShineParticle.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_lightBlue.png
+- Assets/ColorTheme/Sprites/General/tex_dialogueInner_border_half_frame_dont_pack.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_lightBlueLarge.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_orangeMedium.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_greenSmall.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_GreenMedium.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_orangeMid-Large.png
+- Assets/_PapayaKit/Papaya/Sprites/General/tex_dialogueInner.png
+- Assets/ColorTheme/Sprites/Animations/tex_Animations_particle_DiamondSpin.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_blueGray.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_purpleMedium.png
+- Assets/ColorTheme/Sprites/Root/Header.png
+- Assets/ColorTheme/Resources/Textures/DialogueFrames/tex_dialoguePanel.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_greenLarge.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_Green_VerySmall.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_green.png
+- Assets/ColorTheme/Sprites/Root/Timer.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_orange.png
+- Assets/_PapayaKit/Papaya/A2BService/Art/Textures/XP_SQ2.png
+- Assets/_PapayaKit/Papaya/Sprites/CTAbuttons/tex_UI_btn_Orange_VerySmall.png
+Dependencies: []

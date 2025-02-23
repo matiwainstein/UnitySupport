@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 3630236445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c4cfa591c3d4614a5bdf4677de6733d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 883544743a38c9822709974f4036d31b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c4cfa591c3d4614a5bdf4677de6733d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/_PapayaKit/Papaya/Fonts/AlegreyaSans-ExtraBold.ttf
+- Assets/_PapayaKit/TextMesh Pro/Fonts/LiberationSans.ttf
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/AlegreyaSans/Resources/Fonts & Materials/AlegreyaSans-Black
+  SDF.asset
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/AlegreyaSans/Resources/Fonts & Materials/AlegreyaSans-ExtraBold
+  SDF.asset
+- Assets/_PapayaKit/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+- Assets/_PapayaKit/Papaya/Fonts/Baloo2-ExtraBold.ttf
+- Assets/_PapayaKit/TextMesh Pro/Resources/Shaders/TMP_SDF-renderQueue-transparentPlusOne.shader
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/Baloo/Resources/Fonts & Materials/Baloo2-ExtraBold
+  SDF.asset
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/Baloo/Resources/Fonts & Materials/Baloo2-ExtraBold-SpecialTitles.asset
+- Assets/_PapayaKit/Papaya/Fonts/Baloo2-Bold.ttf
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/Baloo/Resources/Fonts & Materials/Baloo2-Bold
+  SDF.asset
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/Baloo/Resources/Fonts & Materials/Baloo2-Medium
+  SDF.asset
+- Assets/_PapayaKit/Papaya/Fonts/Anton-Regular.ttf
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/AlegreyaSans/Resources/Fonts & Materials/AlegreyaSans-Medium
+  SDF.asset
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/AlegreyaSans/Resources/Fonts & Materials/AlegreyaSans-Bold
+  SDF.asset
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/Baloo/Resources/Fonts & Materials/Baloo2-SemiBold
+  SDF.asset
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/AlegreyaSans/Resources/Fonts & Materials/AlegreyaSans-Black-SpecialTItles.asset
+- Assets/_PapayaKit/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/Lobster/Resources/Fonts & Materials/Lobster-Regular
+  SDF.asset
+- Assets/_PapayaKit/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+  Fallback.asset
+- Assets/_PapayaKit/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Vertex.shader
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/Lobster/Resources/Fonts & Materials/Lobster-Regular-SpecialTitles.asset
+- Assets/_PapayaKit/Papaya/Fonts/Baloo2-SemiBold.ttf
+- Assets/_PapayaKit/Papaya/Fonts/AlegreyaSans-Black.ttf
+- Assets/_PapayaKit/Papaya/Fonts/AlegreyaSans-Bold.ttf
+- Assets/_PapayaKit/Papaya/Fonts/AlegreyaSans-Regular.ttf
+- Assets/_PapayaKit/Papaya/Fonts/Lobster-Regular.ttf
+- Assets/_PapayaKit/Papaya/Fonts/Baloo2-Medium.ttf
+- Assets/_PapayaKit/Papaya/Shaders/ShaderGraph/Subgraph/sub_animatedInterals.shadersubgraph
+- Assets/_PapayaKit/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/_PapayaKit/Papaya/Fonts/Baloo2-Regular.ttf
+- Assets/_PapayaKit/Papaya/Fonts/AlegreyaSans-Medium.ttf
+- Assets/ColorTheme/Fonts/Anton/Anton-Regular.ttf
+- Assets/_PapayaKit/Papaya/Fonts/Font Assets/Anton/Resources/Fonts & Materials/Anton-Regular
+  SDF.asset
+- Assets/_PapayaKit/Papaya/Shaders/ShaderGraph/TMP/PapayaTMP_SDF-URP.shadergraph
+Dependencies: []
